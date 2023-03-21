@@ -1,4 +1,5 @@
 # yaoota posts
+This App created by vite
 
  Technologies used:
  
@@ -19,7 +20,7 @@ yarn or yarn install
 ```
 Once the installation is complete, you can start the project by running the following command:
 ```bash
-yarn dev to run the App
+yarn dev
 ```
 
 
@@ -35,7 +36,7 @@ Your comment will appear at the bottom of the page
 
 To view all posts by a specific user or return to the home page, follow these steps:
 
-- To view all posts by the user, click on the "View All Posts" button located at the bottom of the post details page.
+- To check all posts by the user, click on the "CHECK POSTS" button located at the bottom of the post details page.
 - This will take you to a page with all the posts made by the user, with pagination of 20 posts per page.
 - To return to the home page and view all posts, click on the "Clear" icon located at the top right corner of the page.
 This will  display all posts again on the home page.
